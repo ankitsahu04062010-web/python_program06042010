@@ -1,0 +1,1 @@
+print("hello i am ankit and how are you  all  ")
